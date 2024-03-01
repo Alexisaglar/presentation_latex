@@ -1,0 +1,64 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{de2006improvement}{article}{}
+      \name{author}{3}{}{%
+        {{hash=5f5c36f9506687ca38334d4edf1c0822}{%
+           family={De\bibnamedelima Soto},
+           familyi={D\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Widalys},
+           giveni={W\bibinitperiod}}}%
+        {{hash=d4a221b0bc0a60050bb34d9db776d2a6}{%
+           family={Klein},
+           familyi={K\bibinitperiod},
+           given={Sanford\bibnamedelima A},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=7f756f672ac7aeb0f38c9a5c809f677d}{%
+           family={Beckman},
+           familyi={B\bibinitperiod},
+           given={William\bibnamedelima A},
+           giveni={W\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{b775ed937f3d6471c172f1f73ad40c15}
+      \strng{fullhash}{b775ed937f3d6471c172f1f73ad40c15}
+      \strng{bibnamehash}{b775ed937f3d6471c172f1f73ad40c15}
+      \strng{authorbibnamehash}{b775ed937f3d6471c172f1f73ad40c15}
+      \strng{authornamehash}{b775ed937f3d6471c172f1f73ad40c15}
+      \strng{authorfullhash}{b775ed937f3d6471c172f1f73ad40c15}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Solar energy}
+      \field{number}{1}
+      \field{title}{Improvement and validation of a model for photovoltaic array performance}
+      \field{volume}{80}
+      \field{year}{2006}
+      \field{pages}{78\bibrangedash 88}
+      \range{pages}{11}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

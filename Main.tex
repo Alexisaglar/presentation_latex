@@ -1,0 +1,136 @@
+\documentclass[8pt,xcolor = table, t]{beamer}
+
+% For more theme options, https://deic.uab.cat/~iblanes/beamer_gallery/
+\usetheme{Antibes}
+% \usetheme{Berlin}
+% \usetheme{default}
+% \usetheme{Warsaw}
+% \usetheme{AnnArbor}
+
+\setbeamertemplate{navigation symbols}{}
+
+\setbeamercovered{transparent}
+
+% \definecolor{beamer@blendedblue}{rgb}{0.58,0,0.83}
+\definecolor{beamer@blendedblue}{rgb}{0.4,0,0.5}
+\setbeamercolor{structure}{fg=beamer@blendedblue}
+
+
+\setbeamerfont{caption}{series=\normalfont,size=\fontsize{8}{8}} 
+
+
+\usepackage{amsmath,amssymb,amsfonts,amsthm}
+\usepackage{graphicx}
+\usepackage{subcaption}
+
+\usepackage{algorithm}
+\usepackage{algpseudocode}
+
+\usepackage{ragged2e}
+
+% \definecolor{LightViolet}{RGB}{230,220,255}
+% \setbeamercolor{frametitle}{bg=LightViolet}
+
+% For table
+\usepackage{multirow}
+\usepackage{makecell}
+\usepackage{multicol}
+\usepackage{fancyhdr}
+\usepackage{arydshln}
+% \usepackage[table,xcdraw]{xcolor} % Unlike 'report', this won't work in 'beamer'
+
+\newtheorem{proposition}{\textit{Proposition}}
+\newtheorem{remark}{\textit{Remark}}
+
+% \usepackage{biblatex}
+
+\usepackage[style=ieee,citetracker=true]{biblatex}
+\addbibresource{References.bib}
+\renewcommand{\bibfont}{\normalfont\footnotesize}
+% \appto\bibfont{\itshape}
+\setbeamercolor{bibliography entry note}{fg=blue}
+\setbeamercolor{bibliography entry author}{fg=blue}
+
+\renewcommand{\familydefault}{\rmdefault}   % For Times New Roman font
+
+% For justified texts in each slide
+\renewcommand{\raggedright}{\leftskip=0pt \rightskip=0pt plus 0cm}
+
+% \setbeamercovered{transparent}
+\setbeamertemplate{caption}[numbered]
+
+\settowidth{\leftmargini}{\usebeamertemplate{itemize item}}
+\addtolength{\leftmargini}{\labelsep}
+
+% \setbeamerfont{caption}{size=\scriptsize}
+
+\usepackage{bm} 
+
+\newcommand\unfootnote[1]{%
+  \begingroup
+  \renewcommand\thefootnote{}\footnote{#1}%
+  \addtocounter{footnote}{-1}%
+  \endgroup
+}
+
+\setbeamertemplate{footline}
+{
+  \leavevmode%
+  \hbox{
+  \begin{beamercolorbox}[wd=0.66\paperwidth,ht=2.25ex,dp=1ex,left]{institute in head/foot}%
+    \usebeamerfont{institute in head/foot}{Department of Engineering, Durham University}\hspace*{1ex} 
+  \end{beamercolorbox}
+  \begin{beamercolorbox}[wd=0.33\paperwidth,ht=2.25ex,dp=1ex,right]{date in head/foot}%
+    \usebeamerfont{date in head/foot}\insertshortdate{\today}\hspace*{2em}
+    \insertframenumber{} / \inserttotalframenumber\hspace*{2ex} 
+  \end{beamercolorbox}}
+  \vskip0pt
+}
+
+% \logo{\includegraphics[scale=0.01]{IITKGP Logo.png}}
+
+\input{Titlepage}
+
+\begin{document}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}
+    \maketitle
+\end{frame}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% \begin{frame}{Table of Contents}
+%     \tableofcontents
+% \end{frame}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% \input{20240131}
+\input{content}
+
+\section{}
+
+\begin{frame}[c]{}
+  \centering \Huge
+  \emph{Thank you for your attention.}
+\end{frame}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% \section{References}
+%% For showing numbered references
+% \setbeamertemplate{bibliography item}{\insertbiblabel}
+
+% \begin{frame}[allowframebreaks]{References}
+
+    %% When some or all papers from the bib file are not cited
+    % \nocite{*}  % for all entries in the used bib data file
+    % \nocite{<key>} % for a single one
+
+    % \bibliographystyle{ieeetr}
+    % \bibliographystyle{apalike}
+    % \footnotesize
+    % \bibliography{References.bib}
+%     \printbibliography
+
+% \end{frame}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\end{document}
