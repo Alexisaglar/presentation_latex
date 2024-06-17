@@ -1,28 +1,29 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2023.8.18)  1 MAR 2024 13:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Homebrew) (preloaded format=pdflatex 2024.3.20)  14 JUN 2024 16:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
 **/Users/alexisaglar/presentation_latex/Main.tex
 (/Users/alexisaglar/presentation_latex/Main.tex
-LaTeX2e <2022-11-01> patch level 1
-L3 programming layer <2023-04-20> (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beamer/beamer.cls
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-02-20>
+(/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/beamer/beamer.cls
 Document Class: beamer 2024/01/06 v3.71 A class for typesetting presentations
-(/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beamer/beamerbasemodes.sty (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/etoolbox/etoolbox.sty
+(/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/beamer/beamerbasemodes.sty (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count185
+\etb@tempcnta=\count188
 )
 \beamer@tempbox=\box51
-\beamer@tempcount=\count186
-\c@beamerpauses=\count187
- (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beamer/beamerbasedecode.sty
-\beamer@slideinframe=\count188
-\beamer@minimum=\count189
+\beamer@tempcount=\count189
+\c@beamerpauses=\count190
+ (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/beamer/beamerbasedecode.sty
+\beamer@slideinframe=\count191
+\beamer@minimum=\count192
 \beamer@decode@box=\box52
 )
 \beamer@commentbox=\box53
-\beamer@modecount=\count190
-) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/generic/iftex/iftex.sty
+\beamer@modecount=\count193
+) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 )
 \headdp=\dimen140
@@ -48,40 +49,40 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 \beamer@sectionbox=\box57
 \beamer@logobox=\box58
 \beamer@linebox=\box59
-\beamer@sectioncount=\count191
-\beamer@subsubsectionmax=\count192
-\beamer@subsectionmax=\count193
-\beamer@sectionmax=\count194
-\beamer@totalheads=\count195
-\beamer@headcounter=\count196
-\beamer@partstartpage=\count197
-\beamer@sectionstartpage=\count198
-\beamer@subsectionstartpage=\count199
-\beamer@animationtempa=\count266
-\beamer@animationtempb=\count267
-\beamer@xpos=\count268
-\beamer@ypos=\count269
-\beamer@ypos@offset=\count270
-\beamer@showpartnumber=\count271
-\beamer@currentsubsection=\count272
-\beamer@coveringdepth=\count273
-\beamer@sectionadjust=\count274
-\beamer@toclastsection=\count275
-\beamer@tocsectionnumber=\count276
- (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beamer/beamerbaseoptions.sty (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/keyval.sty
+\beamer@sectioncount=\count194
+\beamer@subsubsectionmax=\count195
+\beamer@subsectionmax=\count196
+\beamer@sectionmax=\count197
+\beamer@totalheads=\count198
+\beamer@headcounter=\count199
+\beamer@partstartpage=\count266
+\beamer@sectionstartpage=\count267
+\beamer@subsectionstartpage=\count268
+\beamer@animationtempa=\count269
+\beamer@animationtempb=\count270
+\beamer@xpos=\count271
+\beamer@ypos=\count272
+\beamer@ypos@offset=\count273
+\beamer@showpartnumber=\count274
+\beamer@currentsubsection=\count275
+\beamer@coveringdepth=\count276
+\beamer@sectionadjust=\count277
+\beamer@toclastsection=\count278
+\beamer@tocsectionnumber=\count279
+ (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/beamer/beamerbaseoptions.sty (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
-\KV@toks@=\toks16
+\KV@toks@=\toks17
 ))
 \beamer@paperwidth=\skip49
 \beamer@paperheight=\skip50
- (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/geometry/geometry.sty
+ (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
- (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/generic/iftex/ifvtex.sty
+ (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
-\Gm@cnth=\count277
-\Gm@cntv=\count278
-\c@Gm@tempcnt=\count279
+\Gm@cnth=\count280
+\Gm@cntv=\count281
+\c@Gm@tempcnt=\count282
 \Gm@bindingoffset=\dimen156
 \Gm@wd@mp=\dimen157
 \Gm@odd@mp=\dimen158
@@ -90,21 +91,21 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layoutheight=\dimen161
 \Gm@layouthoffset=\dimen162
 \Gm@layoutvoffset=\dimen163
-\Gm@dimlist=\toks17
- (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/geometry/geometry.cfg)) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/math/pgfmath.sty (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/utilities/pgfrcs.sty (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/pgfutil-common.tex
-\pgfutil@everybye=\toks18
+\Gm@dimlist=\toks18
+) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/pgf/math/pgfmath.sty (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks19
 \pgfutil@tempdima=\dimen164
 \pgfutil@tempdimb=\dimen165
-) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/pgfutil-latex.def
+) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
 \pgfutil@abb=\box60
-) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/pgfrcs.code.tex (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/pgf.revision.tex)
+) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/generic/pgf/pgf.revision.tex)
 Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
-)) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/utilities/pgfkeys.sty (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/pgfkeys.code.tex
-\pgfkeys@pathtoks=\toks19
-\pgfkeys@temptoks=\toks20
- (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/pgfkeyslibraryfiltered.code.tex
-\pgfkeys@tmptoks=\toks21
-))) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmath.code.tex (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathutil.code.tex
+)) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks20
+\pgfkeys@temptoks=\toks21
+ (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibraryfiltered.code.tex
+\pgfkeys@tmptoks=\toks22
+))) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex
 \pgf@x=\dimen166
 \pgf@xa=\dimen167
 \pgf@xb=\dimen168
@@ -113,37 +114,37 @@ Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
 \pgf@ya=\dimen171
 \pgf@yb=\dimen172
 \pgf@yc=\dimen173
-\c@pgf@counta=\count280
-\c@pgf@countb=\count281
-\c@pgf@countc=\count282
-\c@pgf@countd=\count283
-) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathparser.code.tex
+\c@pgf@counta=\count283
+\c@pgf@countb=\count284
+\c@pgf@countc=\count285
+\c@pgf@countd=\count286
+) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
 \pgfmath@dimen=\dimen174
-\pgfmath@count=\count284
+\pgfmath@count=\count287
 \pgfmath@box=\box61
-\pgfmath@toks=\toks22
-\pgfmath@stack@operand=\toks23
-\pgfmath@stack@operation=\toks24
-) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.code.tex) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.random.code.tex) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.base.code.tex) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.round.code.tex) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathcalc.code.tex) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count285
-))) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/extsizes/size8.clo
+\pgfmath@toks=\toks23
+\pgfmath@stack@operand=\toks24
+\pgfmath@stack@operation=\toks25
+) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count288
+))) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/extsizes/size8.clo
 File: size8.clo 1999/11/11 v1.4a NON-Standard LaTeX file (size option)
-) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/basiclayer/pgfcore.sty (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/graphicx.sty
+) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
- (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/graphics.sty
+ (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
- (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/trig.sty
+ (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
-) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-cfg/graphics.cfg
+) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 107.
- (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-def/pdftex.def
+ (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen175
 \Gin@req@width=\dimen176
-) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/systemlayer/pgfsys.sty (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/systemlayer/pgfsys.code.tex
+) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
 Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
 \pgf@x=\dimen177
 \pgf@y=\dimen178
@@ -157,62 +158,62 @@ Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
 \pgf@yd=\dimen186
 \w@pgf@writea=\write3
 \r@pgf@reada=\read2
-\c@pgf@counta=\count286
-\c@pgf@countb=\count287
-\c@pgf@countc=\count288
-\c@pgf@countd=\count289
-\t@pgf@toka=\toks25
-\t@pgf@tokb=\toks26
-\t@pgf@tokc=\toks27
-\pgf@sys@id@count=\count290
- (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/systemlayer/pgf.cfg
+\c@pgf@counta=\count289
+\c@pgf@countb=\count290
+\c@pgf@countc=\count291
+\c@pgf@countd=\count292
+\t@pgf@toka=\toks26
+\t@pgf@tokb=\toks27
+\t@pgf@tokc=\toks28
+\pgf@sys@id@count=\count293
+ (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
 File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
 )
 Driver file for pgf: pgfsys-pdftex.def
- (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+ (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
 File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
- (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+ (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
 File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
-))) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+))) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfsyssoftpath@smallbuffer@items=\count291
-\pgfsyssoftpath@bigbuffer@items=\count292
-) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+\pgfsyssoftpath@smallbuffer@items=\count294
+\pgfsyssoftpath@bigbuffer@items=\count295
+) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
 File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/xcolor/xcolor.sty
-Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
- (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-cfg/color.cfg
+)) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
+ (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
-Package xcolor Info: Driver file: pdftex.def on input line 227.
- (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/colortbl/colortbl.sty
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+ (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1354.
+Package xcolor Info: Model `RGB' extended on input line 1366.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1368.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
+) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/colortbl/colortbl.sty
 Package: colortbl 2024/02/20 v1.0g Color table columns (DPC)
- (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/array.sty
-Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
+ (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/tools/array.sty
+Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
 \col@sep=\dimen187
 \ar@mcellbox=\box62
 \extrarowheight=\dimen188
-\NC@list=\toks28
+\NC@list=\toks29
 \extratabsurround=\skip51
 \backup@length=\skip52
 \ar@cellbox=\box63
 )
-\everycr=\toks29
+\everycr=\toks30
 \minrowclearance=\skip53
-\rownum=\count293
-) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/mathcolor.ltx)
-Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
-Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
-Package xcolor Info: Model `RGB' extended on input line 1369.
-Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
-Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
-Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
-Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
-Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
-Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
-) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcore.code.tex
+\rownum=\count296
+) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
 Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
- (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfint.code.tex) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+ (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/generic/pgf/math/pgfint.code.tex) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
 File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@picminx=\dimen189
 \pgf@picmaxx=\dimen190
@@ -228,227 +229,224 @@ File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@yy=\dimen256
 \pgf@zx=\dimen257
 \pgf@zy=\dimen258
-) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
+) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
 File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@path@lastx=\dimen259
 \pgf@path@lasty=\dimen260
-) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
+) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
 File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@shorten@end@additional=\dimen261
 \pgf@shorten@start@additional=\dimen262
-) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
 File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfpic=\box64
 \pgf@hbox=\box65
 \pgf@layerbox@main=\box66
-\pgf@picture@serial@count=\count294
-) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
+\pgf@picture@serial@count=\count297
+) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgflinewidth=\dimen263
-) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
+) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
 File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@pt@x=\dimen264
 \pgf@pt@y=\dimen265
 \pgf@pt@temp=\dimen266
-) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
 File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
 File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
+) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
 File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
 File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfarrowsep=\dimen267
-) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@max=\dimen268
-\pgf@sys@shading@range@num=\count295
-\pgf@shadingcount=\count296
-) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+\pgf@sys@shading@range@num=\count298
+\pgf@shadingcount=\count299
+) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
 File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
 File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfexternal@startupbox=\box67
-) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
 File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
+) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
 File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
 File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
 File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
-))) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/utilities/xxcolor.sty
+))) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/pgf/utilities/xxcolor.sty
 Package: xxcolor 2003/10/24 ver 0.1
-\XC@nummixins=\count297
-\XC@countmixins=\count298
-) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/atbegshi-ltx.sty
+\XC@nummixins=\count300
+\XC@countmixins=\count301
+) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/base/atbegshi-ltx.sty
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
-) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2023-04-22 v7.00x Hypertext links for LaTeX
- (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/generic/ltxcmds/ltxcmds.sty
-Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
-) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pdftexcmds/pdftexcmds.sty
+) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2024-01-20 v7.01h Hypertext links for LaTeX
+ (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+ (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
- (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/generic/infwarerr/infwarerr.sty
+ (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/generic/infwarerr/infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/kvsetkeys/kvsetkeys.sty
-Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
-) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/generic/kvdefinekeys/kvdefinekeys.sty
-Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pdfescape/pdfescape.sty
-Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
-) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hycolor/hycolor.sty
+)) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/hycolor/hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
-) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/letltxmacro/letltxmacro.sty
-Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
-) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/auxhook/auxhook.sty
+) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/auxhook/auxhook.sty
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
-) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/nameref.sty
-Package: nameref 2022-05-17 v2.50 Cross-referencing by name of section
- (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/refcount/refcount.sty
+) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
+ (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/refcount/refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
-) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/generic/gettitlestring/gettitlestring.sty
+) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
- (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/kvoptions/kvoptions.sty
+ (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
-\c@section@level=\count299
+\c@section@level=\count302
 )
 \@linkdim=\dimen269
-\Hy@linkcounter=\count300
-\Hy@pagecounter=\count301
- (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2023-04-22 v7.00x Hyperref: PDFDocEncoding definition (HO)
+\Hy@linkcounter=\count303
+\Hy@pagecounter=\count304
+ (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2024-01-20 v7.01h Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
-) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/generic/intcalc/intcalc.sty
+) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-\Hy@SavedSpaceFactor=\count302
-
-(/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/puenc.def
-File: puenc.def 2023-04-22 v7.00x Hyperref: PDF Unicode definition (HO)
+\Hy@SavedSpaceFactor=\count305
+ (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2024-01-20 v7.01h Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
-Package hyperref Info: Option `bookmarks' set `true' on input line 4065.
-Package hyperref Info: Option `bookmarksopen' set `true' on input line 4065.
-Package hyperref Info: Option `implicit' set `false' on input line 4065.
-Package hyperref Info: Hyper figures OFF on input line 4182.
-Package hyperref Info: Link nesting OFF on input line 4187.
-Package hyperref Info: Hyper index ON on input line 4190.
-Package hyperref Info: Plain pages OFF on input line 4197.
-Package hyperref Info: Backreferencing OFF on input line 4202.
+Package hyperref Info: Option `bookmarks' set `true' on input line 4062.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 4062.
+Package hyperref Info: Option `implicit' set `false' on input line 4062.
+Package hyperref Info: Hyper figures OFF on input line 4179.
+Package hyperref Info: Link nesting OFF on input line 4184.
+Package hyperref Info: Hyper index ON on input line 4187.
+Package hyperref Info: Plain pages OFF on input line 4194.
+Package hyperref Info: Backreferencing OFF on input line 4199.
 Package hyperref Info: Implicit mode OFF; no redefinition of LaTeX internals.
-Package hyperref Info: Bookmarks ON on input line 4449.
-\c@Hy@tempcnt=\count303
- (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/url/url.sty
+Package hyperref Info: Bookmarks ON on input line 4446.
+\c@Hy@tempcnt=\count306
+ (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 4787.
+LaTeX Info: Redefining \url on input line 4784.
 \XeTeXLinkMargin=\dimen270
- (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/generic/bitset/bitset.sty
+ (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
- (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/generic/bigintcalc/bigintcalc.sty
+ (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
-\Fld@menulength=\count304
+\Fld@menulength=\count307
 \Field@Width=\dimen271
 \Fld@charsize=\dimen272
-Package hyperref Info: Hyper figures OFF on input line 6066.
-Package hyperref Info: Link nesting OFF on input line 6071.
-Package hyperref Info: Hyper index ON on input line 6074.
-Package hyperref Info: backreferencing OFF on input line 6081.
-Package hyperref Info: Link coloring OFF on input line 6086.
-Package hyperref Info: Link coloring with OCG OFF on input line 6091.
-Package hyperref Info: PDF/A mode OFF on input line 6096.
-\Hy@abspage=\count305
+Package hyperref Info: Hyper figures OFF on input line 6063.
+Package hyperref Info: Link nesting OFF on input line 6068.
+Package hyperref Info: Hyper index ON on input line 6071.
+Package hyperref Info: backreferencing OFF on input line 6078.
+Package hyperref Info: Link coloring OFF on input line 6083.
+Package hyperref Info: Link coloring with OCG OFF on input line 6088.
+Package hyperref Info: PDF/A mode OFF on input line 6093.
+\Hy@abspage=\count308
 
 
 Package hyperref Message: Stopped early.
 
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
- (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/hpdftex.def
-File: hpdftex.def 2023-04-22 v7.00x Hyperref driver for pdfTeX
- (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/atveryend-ltx.sty
+ (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2024-01-20 v7.01h Hyperref driver for pdfTeX
+ (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/base/atveryend-ltx.sty
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
 with kernel methods
 )
-\Fld@listcount=\count306
-\c@bookmark@seq@number=\count307
- (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/rerunfilecheck/rerunfilecheck.sty
+\Fld@listcount=\count309
+\c@bookmark@seq@number=\count310
+ (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
- (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/generic/uniquecounter/uniquecounter.sty
+ (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
-)) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beamer/beamerbaserequires.sty (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beamer/beamerbasecompatibility.sty) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beamer/beamerbasefont.sty (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/amssymb.sty
+)) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/beamer/beamerbaserequires.sty (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/beamer/beamerbasecompatibility.sty) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/beamer/beamerbasefont.sty (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
- (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/amsfonts.sty
+ (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
-\@emptytoks=\toks30
+\@emptytoks=\toks31
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-)) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/sansmathaccent/sansmathaccent.sty
+)) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/sansmathaccent/sansmathaccent.sty
 Package: sansmathaccent 2020/01/31
- (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/koma-script/scrlfile.sty
+ (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/koma-script/scrlfile.sty
 Package: scrlfile 2023/07/07 v3.41 KOMA-Script package (file load hooks)
- (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/koma-script/scrlfile-hook.sty
+ (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty
 Package: scrlfile-hook 2023/07/07 v3.41 KOMA-Script package (using LaTeX hooks)
- (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/koma-script/scrlogo.sty
+ (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/koma-script/scrlogo.sty
 Package: scrlogo 2023/07/07 v3.41 KOMA-Script package (logo)
-))))) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beamer/beamerbasetranslator.sty (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/translator/translator.sty
+))))) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/beamer/beamerbasetranslator.sty (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/translator/translator.sty
 Package: translator 2021-05-31 v1.12d Easy translation of strings in LaTeX
-)) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beamer/beamerbasemisc.sty) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beamer/beamerbasetwoscreens.sty) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beamer/beamerbaseoverlay.sty
-\beamer@argscount=\count308
+)) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/beamer/beamerbasemisc.sty) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/beamer/beamerbasetwoscreens.sty) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/beamer/beamerbaseoverlay.sty
+\beamer@argscount=\count311
 \beamer@lastskipcover=\skip54
-\beamer@trivlistdepth=\count309
-) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beamer/beamerbasetitle.sty) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beamer/beamerbasesection.sty
-\c@lecture=\count310
-\c@part=\count311
-\c@section=\count312
-\c@subsection=\count313
-\c@subsubsection=\count314
-) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beamer/beamerbaseframe.sty
+\beamer@trivlistdepth=\count312
+) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/beamer/beamerbasetitle.sty) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/beamer/beamerbasesection.sty
+\c@lecture=\count313
+\c@part=\count314
+\c@section=\count315
+\c@subsection=\count316
+\c@subsubsection=\count317
+) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/beamer/beamerbaseframe.sty
 \beamer@framebox=\box68
 \beamer@frametitlebox=\box69
 \beamer@zoombox=\box70
-\beamer@zoomcount=\count315
-\beamer@zoomframecount=\count316
+\beamer@zoomcount=\count318
+\beamer@zoomframecount=\count319
 \beamer@frametextheight=\dimen273
-\c@subsectionslide=\count317
+\c@subsectionslide=\count320
 \beamer@frametopskip=\skip55
 \beamer@framebottomskip=\skip56
 \beamer@frametopskipautobreak=\skip57
 \beamer@framebottomskipautobreak=\skip58
-\beamer@envbody=\toks31
+\beamer@envbody=\toks32
 \framewidth=\dimen274
-\c@framenumber=\count318
-) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beamer/beamerbaseverbatim.sty
+\c@framenumber=\count321
+) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/beamer/beamerbaseverbatim.sty
 \beamer@verbatimfileout=\write4
-) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beamer/beamerbaseframesize.sty
+) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/beamer/beamerbaseframesize.sty
 \beamer@splitbox=\box71
-\beamer@autobreakcount=\count319
+\beamer@autobreakcount=\count322
 \beamer@autobreaklastheight=\dimen275
-\beamer@frametitletoks=\toks32
-\beamer@framesubtitletoks=\toks33
-) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beamer/beamerbaseframecomponents.sty
+\beamer@frametitletoks=\toks33
+\beamer@framesubtitletoks=\toks34
+) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/beamer/beamerbaseframecomponents.sty
 \beamer@footins=\box72
-) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beamer/beamerbasecolor.sty) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beamer/beamerbasenotes.sty
+) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/beamer/beamerbasecolor.sty) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/beamer/beamerbasenotes.sty
 \beamer@frameboxcopy=\box73
-) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beamer/beamerbasetoc.sty) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beamer/beamerbasetemplates.sty
-\beamer@sbttoks=\toks34
- (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beamer/beamerbaseauxtemplates.sty (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beamer/beamerbaseboxes.sty
+) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/beamer/beamerbasetoc.sty) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/beamer/beamerbasetemplates.sty
+\beamer@sbttoks=\toks35
+ (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/beamer/beamerbaseauxtemplates.sty (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/beamer/beamerbaseboxes.sty
 \bmb@box=\box74
 \bmb@colorbox=\box75
 \bmb@boxwidth=\dimen276
@@ -460,42 +458,42 @@ Package: translator 2021-05-31 v1.12d Easy translation of strings in LaTeX
 \bmb@prevheight=\dimen282
 )
 \beamer@blockheadheight=\dimen283
-)) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beamer/beamerbaselocalstructure.sty (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/enumerate.sty
-Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
-\@enLab=\toks35
+)) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/beamer/beamerbaselocalstructure.sty (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/tools/enumerate.sty
+Package: enumerate 2023/07/04 v3.00 enumerate extensions (DPC)
+\@enLab=\toks36
 )
 \beamer@bibiconwidth=\skip59
-\c@figure=\count320
-\c@table=\count321
+\c@figure=\count323
+\c@table=\count324
 \abovecaptionskip=\skip60
 \belowcaptionskip=\skip61
-) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beamer/beamerbasenavigation.sty (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beamer/beamerbasenavigationsymbols.tex)
+) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/beamer/beamerbasenavigation.sty (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/beamer/beamerbasenavigationsymbols.tex)
 \beamer@section@min@dim=\dimen284
-) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beamer/beamerbasetheorems.sty (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsmath.sty
-Package: amsmath 2022/04/08 v2.17n AMS math features
+) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/beamer/beamerbasetheorems.sty (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2023/05/13 v2.17o AMS math features
 \@mathmargin=\skip62
 
 For additional information on amsmath, use the `?' option.
-(/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amstext.sty
+(/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2021/08/26 v2.01 AMS text
- (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsgen.sty
+ (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks36
+\@emptytoks=\toks37
 \ex@=\dimen285
-)) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsbsy.sty
+)) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen286
-) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsopn.sty
+) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
-\inf@bad=\count322
+\inf@bad=\count325
 LaTeX Info: Redefining \frac on input line 234.
-\uproot@=\count323
-\leftroot@=\count324
+\uproot@=\count326
+\leftroot@=\count327
 LaTeX Info: Redefining \overline on input line 399.
 LaTeX Info: Redefining \colon on input line 410.
-\classnum@=\count325
-\DOTSCASE@=\count326
+\classnum@=\count328
+\DOTSCASE@=\count329
 LaTeX Info: Redefining \ldots on input line 496.
 LaTeX Info: Redefining \dots on input line 499.
 LaTeX Info: Redefining \cdots on input line 620.
@@ -508,55 +506,55 @@ LaTeX Info: Redefining \Bigg on input line 725.
 \big@size=\dimen287
 LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
-\macc@depth=\count327
+\macc@depth=\count330
 LaTeX Info: Redefining \bmod on input line 905.
 LaTeX Info: Redefining \pmod on input line 910.
 LaTeX Info: Redefining \smash on input line 940.
 LaTeX Info: Redefining \relbar on input line 970.
 LaTeX Info: Redefining \Relbar on input line 971.
-\c@MaxMatrixCols=\count328
+\c@MaxMatrixCols=\count331
 \dotsspace@=\muskip17
-\c@parentequation=\count329
-\dspbrk@lvl=\count330
-\tag@help=\toks37
-\row@=\count331
-\column@=\count332
-\maxfields@=\count333
-\andhelp@=\toks38
+\c@parentequation=\count332
+\dspbrk@lvl=\count333
+\tag@help=\toks38
+\row@=\count334
+\column@=\count335
+\maxfields@=\count336
+\andhelp@=\toks39
 \eqnshift@=\dimen288
 \alignsep@=\dimen289
 \tagshift@=\dimen290
 \tagwidth@=\dimen291
 \totwidth@=\dimen292
 \lineht@=\dimen293
-\@envbody=\toks39
+\@envbody=\toks40
 \multlinegap=\skip63
 \multlinetaggap=\skip64
-\mathdisplay@stack=\toks40
+\mathdisplay@stack=\toks41
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
-) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amscls/amsthm.sty
+) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/amscls/amsthm.sty
 Package: amsthm 2020/05/29 v2.20.6
-\thm@style=\toks41
-\thm@bodyfont=\toks42
-\thm@headfont=\toks43
-\thm@notefont=\toks44
-\thm@headpunct=\toks45
+\thm@style=\toks42
+\thm@bodyfont=\toks43
+\thm@headfont=\toks44
+\thm@notefont=\toks45
+\thm@headpunct=\toks46
 \thm@preskip=\skip65
 \thm@postskip=\skip66
 \thm@headsep=\skip67
-\dth@everypar=\toks46
+\dth@everypar=\toks47
 )
-\c@theorem=\count334
-) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beamer/beamerbasethemes.sty)) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beamer/beamerthemedefault.sty (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beamer/beamerfontthemedefault.sty) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beamer/beamercolorthemedefault.sty) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beamer/beamerinnerthemedefault.sty
+\c@theorem=\count337
+) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/beamer/beamerbasethemes.sty)) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/beamer/beamerthemedefault.sty (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/beamer/beamerfontthemedefault.sty) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/beamer/beamercolorthemedefault.sty) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/beamer/beamerinnerthemedefault.sty
 \beamer@dima=\dimen294
 \beamer@dimb=\dimen295
-) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beamer/beamerouterthemedefault.sty))) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beamer/beamerthemeAntibes.sty (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beamer/beamerouterthemetree.sty) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beamer/beamercolorthemewhale.sty) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beamer/beamercolorthemeorchid.sty) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beamer/beamerinnerthemerectangles.sty)) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/caption/subcaption.sty
-Package: subcaption 2023/02/19 v1.6 Sub-captions (AR)
- (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/caption/caption.sty
-Package: caption 2023/03/12 v3.6j Customizing captions (AR)
- (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/caption/caption3.sty
-Package: caption3 2023/03/12 v2.4 caption3 kernel (AR)
+) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/beamer/beamerouterthemedefault.sty))) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/beamer/beamerthemeAntibes.sty (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/beamer/beamerouterthemetree.sty) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/beamer/beamercolorthemewhale.sty) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/beamer/beamercolorthemeorchid.sty) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/beamer/beamerinnerthemerectangles.sty)) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
+ (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+ (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
 \caption@tempdima=\dimen296
 \captionmargin=\dimen297
 \caption@leftmargin=\dimen298
@@ -566,53 +564,53 @@ Package: caption3 2023/03/12 v2.4 caption3 kernel (AR)
 \caption@parindent=\dimen302
 \caption@hangindent=\dimen303
 Package caption Info: beamer document class detected.
- (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/caption/caption-beamer.sto
+ (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/caption/caption-beamer.sto
 File: caption-beamer.sto 2022/01/06 v2.0c Adaption of the caption package to the beamer document classes (AR)
 ))
-\c@caption@flags=\count335
-\c@continuedfloat=\count336
+\c@caption@flags=\count338
+\c@continuedfloat=\count339
 Package caption Info: hyperref package is loaded.
 Package caption Info: Hyperref support is turned off
 (caption)             because hyperref has stopped early.
 )
-Package caption Info: New subtype `subfigure' on input line 239.
-\c@subfigure=\count337
-Package caption Info: New subtype `subtable' on input line 239.
-\c@subtable=\count338
-) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/algorithms/algorithm.sty
+Package caption Info: New subtype `subfigure' on input line 238.
+\c@subfigure=\count340
+Package caption Info: New subtype `subtable' on input line 238.
+\c@subtable=\count341
+) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/algorithms/algorithm.sty
 Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating environment
- (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/float/float.sty
+ (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count339
-\float@exts=\toks47
+\c@float@type=\count342
+\float@exts=\toks48
 \float@box=\box78
-\@float@everytoks=\toks48
+\@float@everytoks=\toks49
 \@floatcapt=\box79
-) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/ifthen.sty
+) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
 )
-\@float@every@algorithm=\toks49
-\c@algorithm=\count340
-) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/algorithmicx/algpseudocode.sty
+\@float@every@algorithm=\toks50
+\c@algorithm=\count343
+) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/algorithmicx/algpseudocode.sty
 Package: algpseudocode 
- (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/algorithmicx/algorithmicx.sty
+ (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/algorithmicx/algorithmicx.sty
 Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
 
 Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
-\c@ALG@line=\count341
-\c@ALG@rem=\count342
-\c@ALG@nested=\count343
+\c@ALG@line=\count344
+\c@ALG@rem=\count345
+\c@ALG@nested=\count346
 \ALG@tlm=\skip68
 \ALG@thistlm=\skip69
-\c@ALG@Lnr=\count344
-\c@ALG@blocknr=\count345
-\c@ALG@storecount=\count346
-\c@ALG@tmpcounter=\count347
+\c@ALG@Lnr=\count347
+\c@ALG@blocknr=\count348
+\c@ALG@storecount=\count349
+\c@ALG@tmpcounter=\count350
 \ALG@tmplength=\skip70
 )
 Document Style - pseudocode environments for use with the `algorithmicx' style
-) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ragged2e/ragged2e.sty
-Package: ragged2e 2023/04/04 v3.5 ragged2e Package
+) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/ragged2e/ragged2e.sty
+Package: ragged2e 2023/06/22 v3.6 ragged2e Package
 \CenteringLeftskip=\skip71
 \RaggedLeftLeftskip=\skip72
 \RaggedRightLeftskip=\skip73
@@ -627,27 +625,27 @@ Package: ragged2e 2023/04/04 v3.5 ragged2e Package
 \RaggedLeftParindent=\skip82
 \RaggedRightParindent=\skip83
 \JustifyingParindent=\skip84
-) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/multirow/multirow.sty
+) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/multirow/multirow.sty
 Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
 \multirow@colwidth=\skip85
-\multirow@cntb=\count348
+\multirow@cntb=\count351
 \multirow@dima=\skip86
 \bigstrutjot=\dimen304
-) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/makecell/makecell.sty
+) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/makecell/makecell.sty
 Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
 \rotheadsize=\dimen305
-\c@nlinenum=\count349
-\TeXr@lab=\toks50
-) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/multicol.sty
-Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
-\c@tracingmulticols=\count350
+\c@nlinenum=\count352
+\TeXr@lab=\toks51
+) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2023/03/30 v1.9f multicolumn formatting (FMi)
+\c@tracingmulticols=\count353
 \mult@box=\box80
 \multicol@leftmargin=\dimen306
-\c@unbalance=\count351
-\c@collectmore=\count352
-\doublecol@number=\count353
-\multicoltolerance=\count354
-\multicolpretolerance=\count355
+\c@unbalance=\count354
+\c@collectmore=\count355
+\doublecol@number=\count356
+\multicoltolerance=\count357
+\multicolpretolerance=\count358
 \full@width=\dimen307
 \page@free=\dimen308
 \premulticols=\dimen309
@@ -656,12 +654,12 @@ Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
 \multicolbaselineskip=\skip88
 \partial@page=\box81
 \last@line=\box82
+\mc@boxedresult=\box83
 \maxbalancingoverflow=\dimen311
-\mult@rightbox=\box83
-\mult@grightbox=\box84
-\mult@firstbox=\box85
-\mult@gfirstbox=\box86
-\@tempa=\box87
+\mult@rightbox=\box84
+\mult@grightbox=\box85
+\mult@firstbox=\box86
+\mult@gfirstbox=\box87
 \@tempa=\box88
 \@tempa=\box89
 \@tempa=\box90
@@ -697,16 +695,17 @@ Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
 \@tempa=\box120
 \@tempa=\box121
 \@tempa=\box122
-\c@minrows=\count356
-\c@columnbadness=\count357
-\c@finalcolumnbadness=\count358
+\@tempa=\box123
+\c@minrows=\count359
+\c@columnbadness=\count360
+\c@finalcolumnbadness=\count361
 \last@try=\dimen312
 \multicolovershoot=\dimen313
 \multicolundershoot=\dimen314
-\mult@nat@firstbox=\box123
-\colbreak@box=\box124
-\mc@col@check@num=\count359
-) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/fancyhdr/fancyhdr.sty
+\mult@nat@firstbox=\box124
+\colbreak@box=\box125
+\mc@col@check@num=\count362
+) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
 \f@nch@headwidth=\skip89
 \f@nch@O@elh=\skip90
@@ -717,82 +716,82 @@ Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
 \f@nch@O@erf=\skip95
 \f@nch@O@olf=\skip96
 \f@nch@O@orf=\skip97
-) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/arydshln/arydshln.sty
+) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/arydshln/arydshln.sty
 Package: arydshln 2019/02/21 v1.76 
 \dashlinedash=\dimen315
 \dashlinegap=\dimen316
-\adl@box=\box125
+\adl@box=\box126
 \adl@height=\dimen317
 \adl@heightsave=\dimen318
 \adl@depth=\dimen319
 \adl@depthsave=\dimen320
 \adl@finaldepth=\dimen321
-\adl@columns=\count360
-\adl@ncol=\count361
-\adl@currentcolumn=\count362
-\adl@currentcolumnsave=\count363
-\adl@totalheight=\count364
-\adl@totalheightsave=\count365
-\adl@dash=\count366
-\adl@gap=\count367
-\adl@cla=\count368
-\adl@clb=\count369
-\adl@everyvbox=\toks51
+\adl@columns=\count363
+\adl@ncol=\count364
+\adl@currentcolumn=\count365
+\adl@currentcolumnsave=\count366
+\adl@totalheight=\count367
+\adl@totalheightsave=\count368
+\adl@dash=\count369
+\adl@gap=\count370
+\adl@cla=\count371
+\adl@clb=\count372
+\adl@everyvbox=\toks52
 \adl@LTpagetotal=\dimen322
 )
-\c@proposition=\count370
-\c@remark=\count371
- (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/biblatex/biblatex.sty
+\c@proposition=\count373
+\c@remark=\count374
+ (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/biblatex/biblatex.sty
 Package: biblatex 2023/03/05 v3.19 programmable bibliographies (PK/MW)
- (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/logreq/logreq.sty
+ (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/logreq/logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count372
- (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/logreq/logreq.def
+\lrq@indent=\count375
+ (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/logreq/logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 ))
-\c@tabx@nest=\count373
-\c@listtotal=\count374
-\c@listcount=\count375
-\c@liststart=\count376
-\c@liststop=\count377
-\c@citecount=\count378
-\c@citetotal=\count379
-\c@multicitecount=\count380
-\c@multicitetotal=\count381
-\c@instcount=\count382
-\c@maxnames=\count383
-\c@minnames=\count384
-\c@maxitems=\count385
-\c@minitems=\count386
-\c@citecounter=\count387
-\c@maxcitecounter=\count388
-\c@savedcitecounter=\count389
-\c@uniquelist=\count390
-\c@uniquename=\count391
-\c@refsection=\count392
-\c@refsegment=\count393
-\c@maxextratitle=\count394
-\c@maxextratitleyear=\count395
-\c@maxextraname=\count396
-\c@maxextradate=\count397
-\c@maxextraalpha=\count398
-\c@abbrvpenalty=\count399
-\c@highnamepenalty=\count400
-\c@lownamepenalty=\count401
-\c@maxparens=\count402
-\c@parenlevel=\count403
-\blx@tempcnta=\count404
-\blx@tempcntb=\count405
-\blx@tempcntc=\count406
-\c@blx@maxsection=\count407
-\blx@maxsegment@0=\count408
-\blx@notetype=\count409
-\blx@parenlevel@text=\count410
-\blx@parenlevel@foot=\count411
-\blx@sectionciteorder@0=\count412
-\blx@sectionciteorderinternal@0=\count413
-\blx@entrysetcounter=\count414
-\blx@biblioinstance=\count415
+\c@tabx@nest=\count376
+\c@listtotal=\count377
+\c@listcount=\count378
+\c@liststart=\count379
+\c@liststop=\count380
+\c@citecount=\count381
+\c@citetotal=\count382
+\c@multicitecount=\count383
+\c@multicitetotal=\count384
+\c@instcount=\count385
+\c@maxnames=\count386
+\c@minnames=\count387
+\c@maxitems=\count388
+\c@minitems=\count389
+\c@citecounter=\count390
+\c@maxcitecounter=\count391
+\c@savedcitecounter=\count392
+\c@uniquelist=\count393
+\c@uniquename=\count394
+\c@refsection=\count395
+\c@refsegment=\count396
+\c@maxextratitle=\count397
+\c@maxextratitleyear=\count398
+\c@maxextraname=\count399
+\c@maxextradate=\count400
+\c@maxextraalpha=\count401
+\c@abbrvpenalty=\count402
+\c@highnamepenalty=\count403
+\c@lownamepenalty=\count404
+\c@maxparens=\count405
+\c@parenlevel=\count406
+\blx@tempcnta=\count407
+\blx@tempcntb=\count408
+\blx@tempcntc=\count409
+\c@blx@maxsection=\count410
+\blx@maxsegment@0=\count411
+\blx@notetype=\count412
+\blx@parenlevel@text=\count413
+\blx@parenlevel@foot=\count414
+\blx@sectionciteorder@0=\count415
+\blx@sectionciteorderinternal@0=\count416
+\blx@entrysetcounter=\count417
+\blx@biblioinstance=\count418
 \labelnumberwidth=\skip98
 \labelalphawidth=\skip99
 \biblabelsep=\skip100
@@ -803,87 +802,87 @@ File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 \bibhang=\skip105
 \blx@bcfin=\read3
 \blx@bcfout=\write5
-\blx@langwohyphens=\language79
-\c@mincomprange=\count416
-\c@maxcomprange=\count417
-\c@mincompwidth=\count418
+\blx@langwohyphens=\language89
+\c@mincomprange=\count419
+\c@maxcomprange=\count420
+\c@mincompwidth=\count421
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
- (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/biblatex/blx-dm.def
+ (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/biblatex/blx-dm.def
 File: blx-dm.def 2023/03/05 v3.19 biblatex localization (PK/MW)
 )
 Package biblatex Info: Trying to load biblatex style data model...
 Package biblatex Info: ... file 'ieee.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count419
-\c@savedafterword=\count420
-\c@annotator=\count421
-\c@savedannotator=\count422
-\c@author=\count423
-\c@savedauthor=\count424
-\c@bookauthor=\count425
-\c@savedbookauthor=\count426
-\c@commentator=\count427
-\c@savedcommentator=\count428
-\c@editor=\count429
-\c@savededitor=\count430
-\c@editora=\count431
-\c@savededitora=\count432
-\c@editorb=\count433
-\c@savededitorb=\count434
-\c@editorc=\count435
-\c@savededitorc=\count436
-\c@foreword=\count437
-\c@savedforeword=\count438
-\c@holder=\count439
-\c@savedholder=\count440
-\c@introduction=\count441
-\c@savedintroduction=\count442
-\c@namea=\count443
-\c@savednamea=\count444
-\c@nameb=\count445
-\c@savednameb=\count446
-\c@namec=\count447
-\c@savednamec=\count448
-\c@translator=\count449
-\c@savedtranslator=\count450
-\c@shortauthor=\count451
-\c@savedshortauthor=\count452
-\c@shorteditor=\count453
-\c@savedshorteditor=\count454
-\c@labelname=\count455
-\c@savedlabelname=\count456
-\c@institution=\count457
-\c@savedinstitution=\count458
-\c@lista=\count459
-\c@savedlista=\count460
-\c@listb=\count461
-\c@savedlistb=\count462
-\c@listc=\count463
-\c@savedlistc=\count464
-\c@listd=\count465
-\c@savedlistd=\count466
-\c@liste=\count467
-\c@savedliste=\count468
-\c@listf=\count469
-\c@savedlistf=\count470
-\c@location=\count471
-\c@savedlocation=\count472
-\c@organization=\count473
-\c@savedorganization=\count474
-\c@origlocation=\count475
-\c@savedoriglocation=\count476
-\c@origpublisher=\count477
-\c@savedorigpublisher=\count478
-\c@publisher=\count479
-\c@savedpublisher=\count480
-\c@language=\count481
-\c@savedlanguage=\count482
-\c@origlanguage=\count483
-\c@savedoriglanguage=\count484
-\c@pageref=\count485
-\c@savedpageref=\count486
+\c@afterword=\count422
+\c@savedafterword=\count423
+\c@annotator=\count424
+\c@savedannotator=\count425
+\c@author=\count426
+\c@savedauthor=\count427
+\c@bookauthor=\count428
+\c@savedbookauthor=\count429
+\c@commentator=\count430
+\c@savedcommentator=\count431
+\c@editor=\count432
+\c@savededitor=\count433
+\c@editora=\count434
+\c@savededitora=\count435
+\c@editorb=\count436
+\c@savededitorb=\count437
+\c@editorc=\count438
+\c@savededitorc=\count439
+\c@foreword=\count440
+\c@savedforeword=\count441
+\c@holder=\count442
+\c@savedholder=\count443
+\c@introduction=\count444
+\c@savedintroduction=\count445
+\c@namea=\count446
+\c@savednamea=\count447
+\c@nameb=\count448
+\c@savednameb=\count449
+\c@namec=\count450
+\c@savednamec=\count451
+\c@translator=\count452
+\c@savedtranslator=\count453
+\c@shortauthor=\count454
+\c@savedshortauthor=\count455
+\c@shorteditor=\count456
+\c@savedshorteditor=\count457
+\c@labelname=\count458
+\c@savedlabelname=\count459
+\c@institution=\count460
+\c@savedinstitution=\count461
+\c@lista=\count462
+\c@savedlista=\count463
+\c@listb=\count464
+\c@savedlistb=\count465
+\c@listc=\count466
+\c@savedlistc=\count467
+\c@listd=\count468
+\c@savedlistd=\count469
+\c@liste=\count470
+\c@savedliste=\count471
+\c@listf=\count472
+\c@savedlistf=\count473
+\c@location=\count474
+\c@savedlocation=\count475
+\c@organization=\count476
+\c@savedorganization=\count477
+\c@origlocation=\count478
+\c@savedoriglocation=\count479
+\c@origpublisher=\count480
+\c@savedorigpublisher=\count481
+\c@publisher=\count482
+\c@savedpublisher=\count483
+\c@language=\count484
+\c@savedlanguage=\count485
+\c@origlanguage=\count486
+\c@savedoriglanguage=\count487
+\c@pageref=\count488
+\c@savedpageref=\count489
 \shorthandwidth=\skip106
 \shortjournalwidth=\skip107
 \shortserieswidth=\skip108
@@ -900,58 +899,58 @@ Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 \localshorteditorwidth=\skip119
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
- (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/biblatex/blx-compat.def
+ (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/biblatex/blx-compat.def
 File: blx-compat.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
 )
 Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
- (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/biblatex/biblatex.def
+ (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/biblatex/biblatex.def
 File: biblatex.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
-\c@textcitecount=\count487
-\c@textcitetotal=\count488
-\c@textcitemaxnames=\count489
-\c@biburlbigbreakpenalty=\count490
-\c@biburlbreakpenalty=\count491
-\c@biburlnumpenalty=\count492
-\c@biburlucpenalty=\count493
-\c@biburllcpenalty=\count494
+\c@textcitecount=\count490
+\c@textcitetotal=\count491
+\c@textcitemaxnames=\count492
+\c@biburlbigbreakpenalty=\count493
+\c@biburlbreakpenalty=\count494
+\c@biburlnumpenalty=\count495
+\c@biburlucpenalty=\count496
+\c@biburllcpenalty=\count497
 \biburlbigskip=\muskip18
 \biburlnumskip=\muskip19
 \biburlucskip=\muskip20
 \biburllcskip=\muskip21
-\c@smartand=\count495
+\c@smartand=\count498
 )
 Package biblatex Info: Trying to load bibliography style 'ieee'...
 Package biblatex Info: ... file 'ieee.bbx' found.
- (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/biblatex-ieee/ieee.bbx
+ (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/biblatex-ieee/ieee.bbx
 File: ieee.bbx 2021/12/06 v1.3f biblatex bibliography style
 Package biblatex Info: Trying to load bibliography style 'numeric-comp'...
 Package biblatex Info: ... file 'numeric-comp.bbx' found.
- (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/biblatex/bbx/numeric-comp.bbx
+ (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/biblatex/bbx/numeric-comp.bbx
 File: numeric-comp.bbx 2023/03/05 v3.19 biblatex bibliography style (PK/MW)
 Package biblatex Info: Trying to load bibliography style 'numeric'...
 Package biblatex Info: ... file 'numeric.bbx' found.
- (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/biblatex/bbx/numeric.bbx
+ (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
 File: numeric.bbx 2023/03/05 v3.19 biblatex bibliography style (PK/MW)
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
- (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/biblatex/bbx/standard.bbx
+ (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
 File: standard.bbx 2023/03/05 v3.19 biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count496
-\c@bbx:relatedtotal=\count497
+\c@bbx:relatedcount=\count499
+\c@bbx:relatedtotal=\count500
 ))))
 Package biblatex Info: Trying to load citation style 'ieee'...
 Package biblatex Info: ... file 'ieee.cbx' found.
- (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/biblatex-ieee/ieee.cbx
+ (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/biblatex-ieee/ieee.cbx
 File: ieee.cbx 2021/12/06 v1.3f biblatex citation style
 Package biblatex Info: Trying to load citation style 'numeric-comp'...
 Package biblatex Info: ... file 'numeric-comp.cbx' found.
- (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/biblatex/cbx/numeric-comp.cbx
+ (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/biblatex/cbx/numeric-comp.cbx
 File: numeric-comp.cbx 2023/03/05 v3.19 biblatex citation style (PK/MW)
-\c@cbx@tempcnta=\count498
-\c@cbx@tempcntb=\count499
-\c@cbx@tempcntc=\count500
-\c@cbx@tempcntd=\count501
+\c@cbx@tempcnta=\count501
+\c@cbx@tempcntb=\count502
+\c@cbx@tempcntc=\count503
+\c@cbx@tempcntd=\count504
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
 Package biblatex Info: Redefining '\footcite'.
@@ -970,32 +969,32 @@ Package biblatex Info: Redefining '\cites'.
 )
 Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
- (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/biblatex/biblatex.cfg
+ (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/biblatex/biblatex.cfg
 File: biblatex.cfg 
 )
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Document encoding is UTF8 ....
- (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3kernel/expl3.sty
-Package: expl3 2023-04-20 L3 programming layer (loader) 
- (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count502
-\l__pdf_internal_box=\box126
+ (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2024-02-20 L3 programming layer (loader) 
+ (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-02-20 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count505
+\l__pdf_internal_box=\box127
 ))
 Package biblatex Info: ... and expl3
-(biblatex)             2023-04-20 L3 programming layer (loader) 
+(biblatex)             2024-02-20 L3 programming layer (loader) 
 (biblatex)             is new enough (at least 2020/04/06),
 (biblatex)             setting 'casechanger=expl3'.
- (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/biblatex/blx-case-expl3.sty (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3packages/xparse/xparse.sty
-Package: xparse 2023-02-02 L3 Experimental document command parser
+ (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2024-02-18 L3 Experimental document command parser
 )
 Package: blx-case-expl3 2023/03/05 v3.19 expl3 case changing code for biblatex
 ))
 \sympureletters=\mathgroup6
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on input line 68.
- (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/bm.sty
-Package: bm 2022/01/05 v1.2f Bold Symbol Support (DPC/FMi)
+(Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on input line 67.
+ (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/tools/bm.sty
+Package: bm 2023/07/08 v1.2f Bold Symbol Support (DPC/FMi)
 \symboldoperators=\mathgroup7
 \symboldletters=\mathgroup8
 \symboldsymbols=\mathgroup9
@@ -1004,30 +1003,30 @@ Package bm Info: No bold for \U/msa/m/n, using \pmb.
 Package bm Info: No bold for \U/msb/m/n, using \pmb.
 \symboldpureletters=\mathgroup10
 LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 149.
-) (Titlepage.tex)
-\@quotelevel=\count503
-\@quotereset=\count504
- (Main.aux)
+) (./Titlepage.tex)
+\@quotelevel=\count506
+\@quotereset=\count507
+ (./Main.aux)
 \openout1 = `Main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 94.
-LaTeX Font Info:    ... okay on input line 94.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 94.
-LaTeX Font Info:    ... okay on input line 94.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 94.
-LaTeX Font Info:    ... okay on input line 94.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 94.
-LaTeX Font Info:    ... okay on input line 94.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 94.
-LaTeX Font Info:    ... okay on input line 94.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 94.
-LaTeX Font Info:    ... okay on input line 94.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 94.
-LaTeX Font Info:    ... okay on input line 94.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 94.
-LaTeX Font Info:    ... okay on input line 94.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 94.
-LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1063,90 +1062,90 @@ LaTeX Font Info:    ... okay on input line 94.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-(/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
+(/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count505
+\scratchcounter=\count508
 \scratchdimen=\dimen323
-\scratchbox=\box127
-\nofMPsegments=\count506
-\nofMParguments=\count507
-\everyMPshowfont=\toks52
-\MPscratchCnt=\count508
+\scratchbox=\box128
+\nofMPsegments=\count509
+\nofMParguments=\count510
+\everyMPshowfont=\toks53
+\MPscratchCnt=\count511
 \MPscratchDim=\dimen324
-\MPnumerator=\count509
-\makeMPintoPDFobject=\count510
-\everyMPtoPDFconversion=\toks53
-) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/epstopdf-pkg/epstopdf-base.sty
+\MPnumerator=\count512
+\makeMPintoPDFobject=\count513
+\everyMPtoPDFconversion=\toks54
+) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
- (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/00miktex/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+ (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-Package hyperref Info: Link coloring OFF on input line 94.
- (Main.out) (Main.out)
+Package hyperref Info: Link coloring OFF on input line 93.
+ (./Main.out) (./Main.out)
 \@outlinefile=\write6
 \openout6 = `Main.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 94.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 93.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 94.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 93.
 \symnumbers=\mathgroup11
-LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 94.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 93.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
-(Font)                  OT1/mathkerncmss/m/sl --> OT1/cmss/m/it on input line 94.
+(Font)                  OT1/mathkerncmss/m/sl --> OT1/cmss/m/it on input line 93.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/mathkerncmss/bx/sl --> OT1/cmss/m/it on input line 94.
+(Font)                  OT1/mathkerncmss/bx/sl --> OT1/cmss/m/it on input line 93.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 94.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 94.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 94.
+(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 93.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 93.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 93.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 94.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 93.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 94.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 94.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 93.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 93.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 94.
+(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 93.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 94.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 94.
+(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 93.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 93.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 94.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 93.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 94.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 93.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 94.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 93.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 94.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 93.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/b/n --> OT1/cmr/b/n on input line 94.
+(Font)                  OT1/cmss/b/n --> OT1/cmr/b/n on input line 93.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmss/b/n --> OT1/cmss/b/n on input line 94.
+(Font)                  OT1/cmss/b/n --> OT1/cmss/b/n on input line 93.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 94.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 93.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 94.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 93.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/b/n on input line 94.
-LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 94.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/b/n on input line 93.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 93.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
-(Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 94.
+(Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 93.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/cmss/b/it --> OT1/mathkerncmss/m/sl on input line 94.
+(Font)                  OT1/cmss/b/it --> OT1/mathkerncmss/m/sl on input line 93.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on input line 94.
- (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/translator/translator-basic-dictionary-English.dict
+(Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on input line 93.
+ (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/translator/translator-basic-dictionary-English.dict
 Dictionary: translator-basic-dictionary, Language: English 
-) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/translator/translator-bibliography-dictionary-English.dict
+) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/translator/translator-bibliography-dictionary-English.dict
 Dictionary: translator-bibliography-dictionary, Language: English 
-) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/translator/translator-environment-dictionary-English.dict
+) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/translator/translator-environment-dictionary-English.dict
 Dictionary: translator-environment-dictionary, Language: English 
-) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/translator/translator-months-dictionary-English.dict
+) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/translator/translator-months-dictionary-English.dict
 Dictionary: translator-months-dictionary, Language: English 
-) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/translator/translator-numbers-dictionary-English.dict
+) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/translator/translator-numbers-dictionary-English.dict
 Dictionary: translator-numbers-dictionary, Language: English 
-) (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/translator/translator-theorem-dictionary-English.dict
+) (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/translator/translator-theorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
 Package caption Info: Begin \AtBeginDocument code.
@@ -1154,7 +1153,7 @@ Package caption Info: float package is loaded.
 Package caption Info: End \AtBeginDocument code.
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
- (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/biblatex/lbx/english.lbx
+ (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/biblatex/lbx/english.lbx
 File: english.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
 )
 Package biblatex Info: Input encoding 'utf8' detected.
@@ -1164,37 +1163,37 @@ Package biblatex Info: Automatic encoding selection.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'Main.bbl' found.
- (Main.bbl)
-Package biblatex Info: Reference section=0 on input line 94.
-Package biblatex Info: Reference segment=0 on input line 94.
- (Main.nav)
-Overfull \hbox (1.08234pt too wide) in paragraph at lines 94--94
+ (./Main.bbl)
+Package biblatex Info: Reference section=0 on input line 93.
+Package biblatex Info: Reference segment=0 on input line 93.
+ (./Main.nav)
+Overfull \hbox (1.08234pt too wide) in paragraph at lines 93--93
 [][]  
  []
 
 
-Overfull \hbox (1.08234pt too wide) in paragraph at lines 98--98
+Overfull \hbox (1.08234pt too wide) in paragraph at lines 97--97
 [][]  
  []
 
-<Figures/DU Logo.png, id=30, 2007.5pt x 866.23625pt>
+<Figures/DU Logo.png, id=31, 2007.5pt x 866.23625pt>
 File: Figures/DU Logo.png Graphic file (type png)
 <use Figures/DU Logo.png>
-Package pdftex.def Info: Figures/DU Logo.png  used on input line 98.
+Package pdftex.def Info: Figures/DU Logo.png  used on input line 97.
 (pdftex.def)             Requested size: 98.87991pt x 42.67912pt.
 
 Overfull \hbox (1.08234pt too wide) has occurred while \output is active
 [][] 
  []
 
-[1{/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/data/fonts/map/pdftex/pdftex.map}
+[1{/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/map/pdftex/updmap/pdftex.map}
 
- <./Figures/DU Logo.png>] (content.tex
+ <./Figures/DU Logo.png>] (./content.tex
 Overfull \hbox (1.08234pt too wide) in paragraph at lines 26--26
 [][]  
  []
 
-<Figures/DIRECT_Project.png, id=46, 565.11125pt x 196.735pt>
+<Figures/DIRECT_Project.png, id=47, 565.11125pt x 196.735pt>
 File: Figures/DIRECT_Project.png Graphic file (type png)
 <use Figures/DIRECT_Project.png>
 Package pdftex.def Info: Figures/DIRECT_Project.png  used on input line 26.
@@ -1209,24 +1208,24 @@ Underfull \hbox (badness 10000) in paragraph at lines 26--26
 
  []
 
-<Figures/Material_response.png, id=48, 591.20876pt x 395.4775pt>
+<Figures/Material_response.png, id=49, 591.20876pt x 395.4775pt>
 File: Figures/Material_response.png Graphic file (type png)
 <use Figures/Material_response.png>
 Package pdftex.def Info: Figures/Material_response.png  used on input line 26.
 (pdftex.def)             Requested size: 179.69237pt x 120.20107pt.
 LaTeX Font Info:    Trying to load font information for U+msa on input line 26.
-(/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/umsa.fd
+(/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Trying to load font information for U+msb on input line 26.
- (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/umsb.fd
+ (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on input line 26.
- (/Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/tex/latex/sansmathaccent/ot1mathkerncmss.fd
+ (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
 File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/mathkerncmss.
 )
-<Figures/Irradiance distribution.png, id=49, 449.68pt x 640.3925pt>
+<Figures/Irradiance distribution.png, id=50, 449.68pt x 640.3925pt>
 File: Figures/Irradiance distribution.png Graphic file (type png)
 <use Figures/Irradiance distribution.png>
 Package pdftex.def Info: Figures/Irradiance distribution.png  used on input line 26.
@@ -1296,7 +1295,7 @@ Overfull \hbox (1.08234pt too wide) has occurred while \output is active
 
 [7
 
-]
+{/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
 Overfull \hbox (1.08234pt too wide) in paragraph at lines 121--121
 [][]  
  []
@@ -1325,7 +1324,7 @@ Overfull \hbox (1.08234pt too wide) in paragraph at lines 205--205
 [][]  
  []
 
-<Figures/3d_PV.png, id=154, 827.09pt x 503.8825pt>
+<Figures/3d_PV.png, id=155, 827.09pt x 503.8825pt>
 File: Figures/3d_PV.png Graphic file (type png)
 <use Figures/3d_PV.png>
 Package pdftex.def Info: Figures/3d_PV.png  used on input line 205.
@@ -1345,37 +1344,37 @@ Underfull \hbox (badness 10000) in paragraph at lines 205--205
 
  []
 
-<Figures/load_season.png, id=155, 578.16pt x 289.08pt>
+<Figures/load_season.png, id=156, 578.16pt x 289.08pt>
 File: Figures/load_season.png Graphic file (type png)
 <use Figures/load_season.png>
 Package pdftex.def Info: Figures/load_season.png  used on input line 205.
 (pdftex.def)             Requested size: 307.28987pt x 153.64394pt.
-<Figures/SI_power_distribution.png, id=156, 752.3307pt x 432.53595pt>
+<Figures/SI_power_distribution.png, id=157, 752.3307pt x 432.53595pt>
 File: Figures/SI_power_distribution.png Graphic file (type png)
 <use Figures/SI_power_distribution.png>
 Package pdftex.def Info: Figures/SI_power_distribution.png  used on input line 205.
 (pdftex.def)             Requested size: 307.28987pt x 176.66768pt.
-<Figures/LLE_power_distribution.png, id=157, 752.3307pt x 429.2838pt>
+<Figures/LLE_power_distribution.png, id=158, 752.3307pt x 429.2838pt>
 File: Figures/LLE_power_distribution.png Graphic file (type png)
 <use Figures/LLE_power_distribution.png>
 Package pdftex.def Info: Figures/LLE_power_distribution.png  used on input line 205.
 (pdftex.def)             Requested size: 307.28987pt x 175.33936pt.
-<Figures/winter.png, id=158, 489.2679pt x 634.5306pt>
+<Figures/winter.png, id=159, 489.2679pt x 634.5306pt>
 File: Figures/winter.png Graphic file (type png)
 <use Figures/winter.png>
 Package pdftex.def Info: Figures/winter.png  used on input line 205.
 (pdftex.def)             Requested size: 71.87785pt x 93.21pt.
-<Figures/autumn.png, id=159, 489.2679pt x 626.5809pt>
+<Figures/autumn.png, id=160, 489.2679pt x 626.5809pt>
 File: Figures/autumn.png Graphic file (type png)
 <use Figures/autumn.png>
 Package pdftex.def Info: Figures/autumn.png  used on input line 205.
 (pdftex.def)             Requested size: 71.87785pt x 92.04222pt.
-<Figures/spring.png, id=160, 489.2679pt x 634.5306pt>
+<Figures/spring.png, id=161, 489.2679pt x 634.5306pt>
 File: Figures/spring.png Graphic file (type png)
 <use Figures/spring.png>
 Package pdftex.def Info: Figures/spring.png  used on input line 205.
 (pdftex.def)             Requested size: 71.87785pt x 93.21pt.
-<Figures/summer.png, id=161, 489.2679pt x 634.5306pt>
+<Figures/summer.png, id=162, 489.2679pt x 634.5306pt>
 File: Figures/summer.png Graphic file (type png)
 <use Figures/summer.png>
 Package pdftex.def Info: Figures/summer.png  used on input line 205.
@@ -1605,7 +1604,7 @@ Overfull \hbox (1.08234pt too wide) has occurred while \output is active
 [14
 
  <./Figures/winter.png> <./Figures/autumn.png> <./Figures/spring.png> <./Figures/summer.png>])
-Overfull \hbox (1.08234pt too wide) in paragraph at lines 113--113
+Overfull \hbox (1.08234pt too wide) in paragraph at lines 112--112
 [][]  
  []
 
@@ -1626,7 +1625,11 @@ Overfull \hbox (1.08234pt too wide) has occurred while \output is active
 \tf@snm=\write9
 \openout9 = `Main.snm'.
 
- (Main.aux)
+ (./Main.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-02-20>
+ ***********
 Package rerunfilecheck Info: File `Main.out' has not changed.
 (rerunfilecheck)             Checksum: 9E5BFC69CE26CAF8000E2B3F0F62D8B5;504.
 Package logreq Info: Writing requests to 'Main.run.xml'.
@@ -1634,17 +1637,18 @@ Package logreq Info: Writing requests to 'Main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 32417 strings out of 476315
- 653057 string characters out of 5775905
- 1867074 words of memory out of 5000000
- 52217 multiletter control sequences out of 15000+600000
- 524973 words of font info for 71 fonts, out of 8000000 for 9000
+ 32176 strings out of 474116
+ 634399 string characters out of 5733619
+ 1942187 words of memory out of 5000000
+ 53904 multiletter control sequences out of 15000+600000
+ 570755 words of font info for 75 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,15n,122p,1094b,1185s stack positions out of 10000i,1000n,20000p,200000b,200000s
- </Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm0800.pk></Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx8.pfb></Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cmextra/cmex8.pfb></Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi6.pfb></Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi8.pfb></Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb></Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr5.pfb></Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr6.pfb></Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr8.pfb></Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmss8.pfb></Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmssi8.pfb></Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy5.pfb></Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy6.pfb></Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy8.pfb></Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmti12.pfb></Users/alexisaglar/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmti7.pfb>
-Output written on Main.pdf (15 pages, 4125796 bytes).
+ 128i,15n,123p,1094b,1185s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex8.pfb></opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti7.pfb></opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb>
+Output written on Main.pdf (15 pages, 4101087 bytes).
 PDF statistics:
- 300 PDF objects out of 1000 (max. 8388607)
+ 304 PDF objects out of 1000 (max. 8388607)
+ 182 compressed objects within 2 object streams
  38 named destinations out of 1000 (max. 500000)
  135 words of extra memory for PDF output out of 10000 (max. 10000000)
 
